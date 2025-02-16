@@ -14,6 +14,14 @@
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="C" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 <img align="left" alt="Bash" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+<br />
+
+#
+
+### Stats
+![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulises-gomez-dev&show_icons=true&theme=github_dark)
+
+#
 
 <!--
 **ulises-gomez-dev/ulises-gomez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +34,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

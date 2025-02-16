@@ -20,6 +20,7 @@
 
 ### Stats
 ![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulises-gomez-dev&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulises-gomez-dev&hide_progress=true&theme=github_dark)
 
 #
 

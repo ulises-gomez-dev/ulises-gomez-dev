@@ -20,7 +20,9 @@
 
 ### Stats
 ![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulises-gomez-dev&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulises-gomez-dev&hide_progress=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulises-gomez-dev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ulises-gomez-dev&theme=github-dark-blue)](https://git.io/streak-stats)
 
 #
 

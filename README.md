@@ -1,5 +1,7 @@
-<h1 align="center">Hi There, I'm Ulises! 👋</h1> 
-
+<h1 align="center">👋 Hi, I'm Ulises!</h1> 
+<p>Software Engineer with a passion for building projects and learning tech</p>
+<p>Self-taught dev</p>
+<p>Currently learning about full-stack developement</p> <br/>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>

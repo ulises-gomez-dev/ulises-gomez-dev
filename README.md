@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ulises!</h1> 
 
 <h3>About Me 🚀</h3>
-<p>👨‍💻 Self-Taught Software Engineer & AI Engineer with a passion for building projects and learning tech</p>
-<p>📖 Currently learning about Full-Stack Engineering</p> <br/>
+<p>👨‍💻 Self-Taught Software Engineer with a passion for building projects and learning frameworks, programing languages, etc.</p>
+<p>📖 Currently learning about Full-Stack, Systems Design and Artificial Intelligence.</p> <br/>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ulises!</h1> 
+<h1 align="center">👋 Hi, I'm Ulises Gomez!</h1> 
 
 <h3>About Me 🚀</h3>
 <p>👨‍💻 Self-Taught Software Engineer with a passion for building projects and learning frameworks, programing languages, etc.</p>

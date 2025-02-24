@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
   <img 
-    src="https://skillicons.dev/icons?i=python,pytorch,java,git,github,vscode,linux,html,css,javascript,typescript,react,nodejs,c,vim,bash&perline=8"
+    src="https://skillicons.dev/icons?i=python,fastapi,pytorch,java,git,github,vscode,linux,html,css,tailwind,javascript,typescript,react,redux,nodejs,npm,c,vim,bash&perline=8"
   />
   <br />
 </div>

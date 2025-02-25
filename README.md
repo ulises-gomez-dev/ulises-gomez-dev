@@ -15,11 +15,11 @@
 
 <br />
 
-#
 
 <h2 align="center">Stats</h2>
 <br>
 <div align="center">
+  
   <img 
     height=200
     align="center"

@@ -34,7 +34,7 @@
   />
   <br />
   <img
-    height=125
+    height=200
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulises-gomez-dev&layout=compact&theme=github_dark"
     alt="top-langs"

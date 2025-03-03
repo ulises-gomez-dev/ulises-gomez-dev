@@ -19,28 +19,39 @@
 <h2 align="center">Stats</h2>
 <br>
 <div align="center">
+  <div>
+    <img
+      height=200
+      align="center"
+      src="https://streak-stats.demolab.com?user=ulises-gomez-dev&theme=github-dark-blue"
+      alt="github-streaks"
+    />
+  </div>
   
-  <img
-    height=200
-    align="center"
-    src="https://streak-stats.demolab.com?user=ulises-gomez-dev&theme=github-dark-blue"
-    alt="github-streaks"
-  />
-  <img 
-    height=200
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=ulises-gomez-dev&show_icons=true&theme=github_dark&rank_icon=github" 
-    alt="ulises's-github-stats"  
-  />
+  <br/>
+  
+  <div>
+    <img 
+      height=200
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=ulises-gomez-dev&show_icons=true&theme=github_dark&rank_icon=github" 
+      alt="ulises's-github-stats"  
+    />
+  </div>
+  
   <br />
-  <img
-    height=200
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulises-gomez-dev&layout=compact&theme=github_dark"
-    alt="top-langs"
-  />
+  
+  <div>
+    <img
+      height=200
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulises-gomez-dev&layout=compact&theme=github_dark"
+      alt="top-langs"
+    />
+  </div>
+
 </div>
-<br/>
+
 
 <!--
 ![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulises-gomez-dev&show_icons=true&theme=github_dark)
